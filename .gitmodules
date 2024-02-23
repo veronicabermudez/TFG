@@ -1,0 +1,3 @@
+[submodule "SegSRGAN"]
+	path = SegSRGAN
+	url = https://github.com/koopa31/SegSRGAN
